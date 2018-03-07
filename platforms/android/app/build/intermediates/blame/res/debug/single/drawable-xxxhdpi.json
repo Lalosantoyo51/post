@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/desarrollo/Documents/Lalo/pos/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/background.png",
+        "source": "/Users/desarrollo/Documents/Lalo/pos/platforms/android/app/src/main/res/drawable-xxxhdpi/background.png"
+    },
+    {
+        "merged": "/Users/desarrollo/Documents/Lalo/pos/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/icon.png",
+        "source": "/Users/desarrollo/Documents/Lalo/pos/platforms/android/app/src/main/res/drawable-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/desarrollo/Documents/Lalo/pos/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/logo.png",
+        "source": "/Users/desarrollo/Documents/Lalo/pos/platforms/android/app/src/main/res/drawable-xxxhdpi/logo.png"
+    }
+]
